@@ -3,7 +3,7 @@ boardgames
 
 ## Heavy/medium games
 |name|boardgamegeek|
-|-------|---|---|
+|-------|---|
 |Tigris and Euphrate| http://boardgamegeek.com/boardgame/42/tigris-euphrates|
 |Formule De|http://boardgamegeek.com/boardgame/64897/formule-de|
 |Lifeboats/Rette sich wer kann|http://boardgamegeek.com/boardgame/249/lifeboats|
@@ -29,6 +29,8 @@ boardgames
 |Kahuna|http://boardgamegeek.com/boardgame/394/kahuna|
 
 ## Collaborative games
+|name|boardgamegeek|
+|-------|---|
 |Pandemie|http://boardgamegeek.com/boardgame/30549/pandemic|
 |Ghost stories|http://boardgamegeek.com/boardgame/37046/ghost-stories|
 |Space Alert|http://boardgamegeek.com/boardgame/38453/space-alert|
@@ -63,9 +65,9 @@ boardgames
 |Geshenckt||
 |sprinter||
 ## speed games
-|name|#players|boardgamegeek|
-|-------|---|---|
-Hand's up
-Jungle speed
-Vitrail
-Sudokarre
+|name|boardgamegeek|
+|-------|---|
+|Hand's up||
+|Jungle speed||
+|Vitrail||
+|Sudokarre||
