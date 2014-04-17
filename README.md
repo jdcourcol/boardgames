@@ -2,13 +2,16 @@ boardgames
 ==========
 
 ## Heavy games
-Caylus
+|name|#players|boardgamegeek|
+|-------|---|---|
+| Caylus | | |
 Mediteraneo
 Agricola
 Tigris and Euphrate
 Acquire
 ## Medium games
 Formule De
+Carcassone http://boardgamegeek.com/boardgame/822/carcassonne
 Viva El Rey
 Tavula
 
