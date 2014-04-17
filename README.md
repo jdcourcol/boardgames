@@ -39,17 +39,17 @@ boardgames
 |name|boardgamegeek|
 |-------|---|
 |Unanimo|http://boardgamegeek.com/boardgame/12157/unanimo|
-|Les loups garous||
-|Nimmt 6||
-|Cash n Guns||
-|Gift trap| |
-|Dixit||
-|Contrario| |
-|Carambouille||
+|the werewolves|http://boardgamegeek.com/boardgame/25821/the-werewolves-of-millers-hollow|
+|Nimmt 6|http://boardgamegeek.com/boardgame/432/category-5|
+|Cash n Guns|http://boardgamegeek.com/boardgame/19237/cash-n-guns|
+|Gift trap|http://boardgamegeek.com/boardgame/23686/gifttrap|
+|Dixit|http://boardgamegeek.com/boardgame/39856/dixit|
+|Contrario|http://boardgamegeek.com/boardgame/15271/contrario|
+|Carambouille|http://boardgamegeek.com/boardgame/11547/carambouille|
 |Cochons||
 |Kiproko||
-|Pix||
-|Au feu||
+|Pix|http://boardgamegeek.com/boardgame/67181/pix|
+|Au feu|http://boardgamegeek.com/boardgame/359/bucket-brigade|
 |A Capella||
 |Droles de zebre||
 |Shotten totten||
@@ -67,7 +67,7 @@ boardgames
 ## speed games
 |name|boardgamegeek|
 |-------|---|
-|Hand's up||
-|Jungle speed||
-|Vitrail||
-|Sudokarre||
+|Hand's up|http://boardgamegeek.com/boardgame/5014/hands-up|
+|Jungle speed|http://boardgamegeek.com/boardgame/8098/jungle-speed|
+|Vitrail|http://boardgamegeek.com/boardgame/22465/on-the-dot|
+|Sudokarre|http://boardgamegeek.com/boardgame/30776/sudokarre|
