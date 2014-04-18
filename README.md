@@ -5,7 +5,7 @@ boardgames
 |name|boardgamegeek|
 |-------|---|
 |Tigris and Euphrate| http://boardgamegeek.com/boardgame/42/tigris-euphrates|
-|Formule De|http://boardgamegeek.com/boardgame/64897/formule-de|
+|Formule De|http://boardgamegeek.com/boardgame/37904/formula-d|
 |Lifeboats/Rette sich wer kann|http://boardgamegeek.com/boardgame/249/lifeboats|
 |Carcassone|http://boardgamegeek.com/boardgame/822/carcassonne|
 |Ursuppe/Primordial Soup|http://boardgamegeek.com/boardgame/124/primordial-soup|
@@ -46,24 +46,24 @@ boardgames
 |Dixit|http://boardgamegeek.com/boardgame/39856/dixit|
 |Contrario|http://boardgamegeek.com/boardgame/15271/contrario|
 |Carambouille|http://boardgamegeek.com/boardgame/11547/carambouille|
-|Cochons||
-|Kiproko||
+|Cochons|http://boardgamegeek.com/boardgame/2593/pass-the-pigs|
+|Kiproko|http://boardgamegeek.com/boardgame/1072/watn-dat|
 |Pix|http://boardgamegeek.com/boardgame/67181/pix|
 |Au feu|http://boardgamegeek.com/boardgame/359/bucket-brigade|
 |A Capella||
-|Droles de zebre||
-|Shotten totten||
-|Can't stop||
-|Polarity||
-|Helvetiq||
-|Tasso||
-|Du balai||
-|Syllabus||
-|Etymos||
-|La vache amoureuse||
-|Guerre des moutons|
-|Geshenckt||
-|sprinter||
+|Droles de zebre|http://boardgamegeek.com/boardgame/14781/droles-de-zebres|
+|Shotten totten|http://boardgamegeek.com/boardgame/372/schotten-totten|
+|Can't stop|http://boardgamegeek.com/boardgame/41/cant-stop|
+|Polarity|http://boardgamegeek.com/boardgame/380/polarity|
+|Helvetiq|http://boardgamegeek.com/boardgame/39086/helvetiq|
+|Tasso|http://boardgamegeek.com/boardgame/39332/lakota|
+|Du balai|http://boardgamegeek.com/boardgame/28025/wicked-witches-way|
+|Syllabus|http://boardgamegeek.com/boardgame/18885/syllabus|
+|Etymos|http://boardgamegeek.com/boardgame/58256/etymos|
+|La vache amoureuse|http://boardgamegeek.com/boardgame/19284/la-vache-amoureuse|
+|Guerre des moutons|http://boardgamegeek.com/boardgame/3243/wooly-bully|
+|Geshenckt|http://boardgamegeek.com/boardgame/12942/no-thanks|
+|sprinter|http://boardgamegeek.com/boardgame/923/breakaway-rider|
 ## speed games
 |name|boardgamegeek|
 |-------|---|
