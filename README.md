@@ -23,7 +23,7 @@ boardgames
 |Condottiere|http://boardgamegeek.com/boardgame/112/condottiere|
 |hare and tortoise|http://boardgamegeek.com/boardgame/361/hare-tortoise|
 |Viva El Rey|http://boardgamegeek.com/boardgame/7806/king-me|
-|Tavula||
+|Taluvaa|http://boardgamegeek.com/boardgame/24508/taluva|
 |Mr Jack|http://boardgamegeek.com/boardgame/21763/mr-jack|
 |Marrakesh|http://boardgamegeek.com/boardgame/29223/marrakech|
 |Kahuna|http://boardgamegeek.com/boardgame/394/kahuna|
