@@ -38,29 +38,29 @@ boardgames
 ## small or Party games
 |name|boardgamegeek|
 |-------|---|
-|Unanimo|http://boardgamegeek.com/boardgame/12157/unanimo|
+|Unanimo*|http://boardgamegeek.com/boardgame/12157/unanimo|
 |the werewolves|http://boardgamegeek.com/boardgame/25821/the-werewolves-of-millers-hollow|
 |Nimmt 6|http://boardgamegeek.com/boardgame/432/category-5|
 |Cash n Guns|http://boardgamegeek.com/boardgame/19237/cash-n-guns|
 |Gift trap|http://boardgamegeek.com/boardgame/23686/gifttrap|
-|Dixit|http://boardgamegeek.com/boardgame/39856/dixit|
-|Contrario|http://boardgamegeek.com/boardgame/15271/contrario|
+|Dixit*|http://boardgamegeek.com/boardgame/39856/dixit|
+|Contrario*|http://boardgamegeek.com/boardgame/15271/contrario|
 |Carambouille|http://boardgamegeek.com/boardgame/11547/carambouille|
 |Cochons|http://boardgamegeek.com/boardgame/2593/pass-the-pigs|
-|Kiproko|http://boardgamegeek.com/boardgame/1072/watn-dat|
-|Concept|http://boardgamegeek.com/boardgame/147151/concept|
-|Pix|http://boardgamegeek.com/boardgame/67181/pix|
+|Kiproko*|http://boardgamegeek.com/boardgame/1072/watn-dat|
+|Concept*|http://boardgamegeek.com/boardgame/147151/concept|
+|Pix*|http://boardgamegeek.com/boardgame/67181/pix|
 |Au feu|http://boardgamegeek.com/boardgame/359/bucket-brigade|
-|A Capella||
+|A Capella*||
 |Droles de zebre|http://boardgamegeek.com/boardgame/14781/droles-de-zebres|
 |Shotten totten|http://boardgamegeek.com/boardgame/372/schotten-totten|
 |Can't stop|http://boardgamegeek.com/boardgame/41/cant-stop|
 |Polarity|http://boardgamegeek.com/boardgame/380/polarity|
-|Helvetiq|http://boardgamegeek.com/boardgame/39086/helvetiq|
+|Helvetiq*|http://boardgamegeek.com/boardgame/39086/helvetiq|
 |Tasso|http://boardgamegeek.com/boardgame/39332/lakota|
 |Du balai|http://boardgamegeek.com/boardgame/28025/wicked-witches-way|
-|Syllabus|http://boardgamegeek.com/boardgame/18885/syllabus|
-|Etymos|http://boardgamegeek.com/boardgame/58256/etymos|
+|Syllabus*|http://boardgamegeek.com/boardgame/18885/syllabus|
+|Etymos*|http://boardgamegeek.com/boardgame/58256/etymos|
 |La vache amoureuse|http://boardgamegeek.com/boardgame/19284/la-vache-amoureuse|
 |Guerre des moutons|http://boardgamegeek.com/boardgame/3243/wooly-bully|
 |Geshenckt|http://boardgamegeek.com/boardgame/12942/no-thanks|
@@ -72,3 +72,5 @@ boardgames
 |Jungle speed|http://boardgamegeek.com/boardgame/8098/jungle-speed|
 |Vitrail|http://boardgamegeek.com/boardgame/22465/on-the-dot|
 |Sudokarre|http://boardgamegeek.com/boardgame/30776/sudokarre|
+
+(*) language dependence.
