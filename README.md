@@ -48,6 +48,7 @@ boardgames
 |Carambouille|http://boardgamegeek.com/boardgame/11547/carambouille|
 |Cochons|http://boardgamegeek.com/boardgame/2593/pass-the-pigs|
 |Kiproko|http://boardgamegeek.com/boardgame/1072/watn-dat|
+|Concept|http://boardgamegeek.com/boardgame/147151/concept|
 |Pix|http://boardgamegeek.com/boardgame/67181/pix|
 |Au feu|http://boardgamegeek.com/boardgame/359/bucket-brigade|
 |A Capella||
