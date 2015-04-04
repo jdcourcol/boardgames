@@ -66,6 +66,7 @@ boardgames
 |Guerre des moutons|http://boardgamegeek.com/boardgame/3243/wooly-bully|
 |Geshenckt|http://boardgamegeek.com/boardgame/12942/no-thanks|
 |sprinter|http://boardgamegeek.com/boardgame/923/breakaway-rider|
+|musicIQ*||
 ## speed games
 |name|boardgamegeek|
 |-------|---|
