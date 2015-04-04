@@ -12,6 +12,7 @@ boardgames
 |Ricochet robots|http://boardgamegeek.com/boardgame/51/ricochet-robots |
 |Acquire|http://boardgamegeek.com/boardgame/5/acquire|
 |Bloodbowl|http://boardgamegeek.com/boardgame/712/blood-bowl-third-edition|
+|Rallyman|http://boardgamegeek.com/boardgame/60435/rallyman|
 |Caylus|http://boardgamegeek.com/boardgame/18602/caylus|
 |serenissima/mediterranee|http://boardgamegeek.com/boardgame/232/serenissima-first-edition|
 |Agricola|http://boardgamegeek.com/boardgame/31260/agricola|
