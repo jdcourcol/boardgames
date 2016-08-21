@@ -22,6 +22,7 @@ boardgames
 |Kingdom builder|https://boardgamegeek.com/boardgame/107529/kingdom-builder|
 |Dominion|http://boardgamegeek.com/boardgame/36218/dominion|
 |Puerto Rico|http://boardgamegeek.com/boardgame/3076/puerto-rico|
+|Zooloretto|https://boardgamegeek.com/boardgame/27588/zooloretto|
 |Condottiere|http://boardgamegeek.com/boardgame/112/condottiere|
 |hare and tortoise|http://boardgamegeek.com/boardgame/361/hare-tortoise|
 |Viva El Rey|http://boardgamegeek.com/boardgame/7806/king-me|
