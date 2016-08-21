@@ -19,6 +19,7 @@ boardgames
 |Ticket to ride/Aventuriers du rail|http://boardgamegeek.com/boardgame/9209/ticket-to-ride|
 |Ricket to ride/Aventuriers du rail (swiss)|http://boardgamegeek.com/boardgameexpansion/30746/ticket-to-ride-switzerland|
 |Megawatts|http://boardgamegeek.com/boardgame/39336/megawatts|
+|Kingdom builder|https://boardgamegeek.com/boardgame/107529/kingdom-builder|
 |Dominion|http://boardgamegeek.com/boardgame/36218/dominion|
 |Puerto Rico|http://boardgamegeek.com/boardgame/3076/puerto-rico|
 |Condottiere|http://boardgamegeek.com/boardgame/112/condottiere|
@@ -33,6 +34,7 @@ boardgames
 |name|boardgamegeek|
 |-------|---|
 |Pandemie|http://boardgamegeek.com/boardgame/30549/pandemic|
+|Pandemic legacy|https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1|
 |Ghost stories|http://boardgamegeek.com/boardgame/37046/ghost-stories|
 |Space Alert|http://boardgamegeek.com/boardgame/38453/space-alert|
 |Novembre rouge|http://boardgamegeek.com/boardgame/36946/red-november|
