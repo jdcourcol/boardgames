@@ -1,6 +1,7 @@
 boardgames
 ==========
 
+
 ## Heavy/medium games
 |name|boardgamegeek|
 |-------|---|
