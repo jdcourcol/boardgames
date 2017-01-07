@@ -15,7 +15,7 @@ boardgames
 | Bloodbowl                                  | https://boardgamegeek.com/boardgame/712/blood-bowl-third-edition              |
 | Rallyman                                   | https://boardgamegeek.com/boardgame/60435/rallyman                            |
 | Caylus                                     | https://boardgamegeek.com/boardgame/18602/caylus                              |
-| serenissima/mediterranee                   | https://boardgamegeek.com/boardgame/232/serenissima-first-edition             |
+| Serenissima/Mediterranee                   | https://boardgamegeek.com/boardgame/232/serenissima-first-edition             |
 | Agricola                                   | https://boardgamegeek.com/boardgame/31260/agricola                            |
 | Ticket to ride/Aventuriers du rail         | https://boardgamegeek.com/boardgame/9209/ticket-to-ride                       |
 | Ricket to ride/Aventuriers du rail (swiss) | https://boardgamegeek.com/boardgameexpansion/30746/ticket-to-ride-switzerland |
@@ -25,7 +25,7 @@ boardgames
 | Puerto Rico                                | https://boardgamegeek.com/boardgame/3076/puerto-rico                          |
 | Zooloretto                                 | https://boardgamegeek.com/boardgame/27588/zooloretto                          |
 | Condottiere                                | https://boardgamegeek.com/boardgame/112/condottiere                           |
-| hare and tortoise                          | https://boardgamegeek.com/boardgame/361/hare-tortoise                         |
+| Hare and tortoise                          | https://boardgamegeek.com/boardgame/361/hare-tortoise                         |
 | Viva El Rey                                | https://boardgamegeek.com/boardgame/7806/king-me                              |
 | Taluva                                     | https://boardgamegeek.com/boardgame/24508/taluva                              |
 | Mr Jack                                    | https://boardgamegeek.com/boardgame/21763/mr-jack                             |
@@ -44,7 +44,7 @@ boardgames
 | name               | boardgamegeek                                                              |
 |--------------------|----------------------------------------------------------------------------|
 | Unanimo*           | https://boardgamegeek.com/boardgame/12157/unanimo                          |
-| the werewolves     | https://boardgamegeek.com/boardgame/25821/the-werewolves-of-millers-hollow |
+| The werewolves     | https://boardgamegeek.com/boardgame/25821/the-werewolves-of-millers-hollow |
 | Nimmt 6            | https://boardgamegeek.com/boardgame/432/category-5                         |
 | Cash n Guns        | https://boardgamegeek.com/boardgame/19237/cash-n-guns                      |
 | Gift trap          | https://boardgamegeek.com/boardgame/23686/gifttrap                         |
@@ -68,10 +68,10 @@ boardgames
 | Etymos*            | https://boardgamegeek.com/boardgame/58256/etymos                           |
 | La vache amoureuse | https://boardgamegeek.com/boardgame/19284/la-vache-amoureuse               |
 | Guerre des moutons | https://boardgamegeek.com/boardgame/3243/wooly-bully                       |
-| tokyo train        | https://boardgamegeek.com/boardgame/41052/tokyo-train                      |
+| Tokyo train        | https://boardgamegeek.com/boardgame/41052/tokyo-train                      |
 | Geshenckt          | https://boardgamegeek.com/boardgame/12942/no-thanks                        |
-| sprinter           | https://boardgamegeek.com/boardgame/923/breakaway-rider                    |
-| musicIQ*           |                                                                            |
+| Sprinter           | https://boardgamegeek.com/boardgame/923/breakaway-rider                    |
+| MusicIQ*           |                                                                            |
 ## speed games
 | name         | boardgamegeek                                         |
 |--------------|-------------------------------------------------------|
