@@ -72,7 +72,7 @@ boardgames
 | Tokyo train        | https://boardgamegeek.com/boardgame/41052/tokyo-train                      |
 | Geshenckt          | https://boardgamegeek.com/boardgame/12942/no-thanks                        |
 | Sprinter           | https://boardgamegeek.com/boardgame/923/breakaway-rider                    |
-| MusicIQ*           |                                                                            |
+| MusicIQ*           | https://www.boardgamegeek.com/boardgame/191928/musiciq                     |
 ## speed games
 | name         | boardgamegeek                                         |
 |--------------|-------------------------------------------------------|
