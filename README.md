@@ -46,6 +46,7 @@ boardgames
 | Unanimo*           | https://boardgamegeek.com/boardgame/12157/unanimo                          |
 | The werewolves     | https://boardgamegeek.com/boardgame/25821/the-werewolves-of-millers-hollow |
 | Nimmt 6            | https://boardgamegeek.com/boardgame/432/category-5                         |
+| King of tokyo      | https://www.boardgamegeek.com/boardgame/70323/king-tokyo                   |
 | Cash n Guns        | https://boardgamegeek.com/boardgame/19237/cash-n-guns                      |
 | Gift trap          | https://boardgamegeek.com/boardgame/23686/gifttrap                         |
 | Dixit*             | https://boardgamegeek.com/boardgame/39856/dixit                            |
