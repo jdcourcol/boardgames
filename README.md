@@ -52,6 +52,7 @@ boardgames
 | Dixit*             | https://boardgamegeek.com/boardgame/39856/dixit                            |
 | Contrario*         | https://boardgamegeek.com/boardgame/15271/contrario                        |
 | Carambouille       | https://boardgamegeek.com/boardgame/11547/carambouille                     |
+| Kingdomino         | https://boardgamegeek.com/boardgame/204583/kingdomino                      |
 | Cochons            | https://boardgamegeek.com/boardgame/2593/pass-the-pigs                     |
 | Kiproko*           | https://boardgamegeek.com/boardgame/1072/watn-dat                          |
 | Concept*           | https://boardgamegeek.com/boardgame/147151/concept                         |
