@@ -34,13 +34,14 @@ boardgames
 | Kahuna                                     | https://boardgamegeek.com/boardgame/394/kahuna                                |
 
 ## Collaborative games
-| name            | boardgamegeek                                                       |
-|-----------------|---------------------------------------------------------------------|
-| Pandemie        | https://boardgamegeek.com/boardgame/30549/pandemic                  |
-| Pandemic legacy | https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1 |
-| Ghost stories   | https://boardgamegeek.com/boardgame/37046/ghost-stories             |
-| Space Alert     | https://boardgamegeek.com/boardgame/38453/space-alert               |
-| Novembre rouge  | https://boardgamegeek.com/boardgame/36946/red-november              |
+| name                                  | boardgamegeek                                                                               |
+|---------------------------------------|---------------------------------------------------------------------------------------------|
+| Pandemie                              | https://boardgamegeek.com/boardgame/30549/pandemic                                          |
+| Sherlock Holmes consulting detectives | https://boardgamegeek.com/boardgame/2511/sherlock-holmes-consulting-detective-thames-murder |
+| Pandemic legacy                       | https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1                         |
+| Ghost stories                         | https://boardgamegeek.com/boardgame/37046/ghost-stories                                     |
+| Space Alert                           | https://boardgamegeek.com/boardgame/38453/space-alert                                       |
+| Novembre rouge                        | https://boardgamegeek.com/boardgame/36946/red-november                                      |
 ## small or Party games
 | name               | boardgamegeek                                                              |
 |--------------------|----------------------------------------------------------------------------|
