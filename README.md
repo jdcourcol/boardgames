@@ -22,6 +22,7 @@ boardgames
 | Megawatts                                  | https://boardgamegeek.com/boardgame/39336/megawatts                           |
 | Kingdom builder                            | https://boardgamegeek.com/boardgame/107529/kingdom-builder                    |
 | Dominion                                   | https://boardgamegeek.com/boardgame/36218/dominion                            |
+| Race for the galaxy                        | https://boardgamegeek.com/boardgame/28143/race-galaxy                         |
 | Puerto Rico                                | https://boardgamegeek.com/boardgame/3076/puerto-rico                          |
 | Zooloretto                                 | https://boardgamegeek.com/boardgame/27588/zooloretto                          |
 | Condottiere                                | https://boardgamegeek.com/boardgame/112/condottiere                           |
