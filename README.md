@@ -19,8 +19,9 @@ boardgames
 | Agricola                                   | https://boardgamegeek.com/boardgame/31260/agricola                            |
 | Ticket to ride/Aventuriers du rail         | https://boardgamegeek.com/boardgame/9209/ticket-to-ride                       |
 | Ricket to ride/Aventuriers du rail (swiss) | https://boardgamegeek.com/boardgameexpansion/30746/ticket-to-ride-switzerland |
-| Megawatts                                  | https://boardgamegeek.com/boardgame/39336/megawatts                           |
+| ,Megawatts                                 | https://boardgamegeek.com/boardgame/39336/megawatts                           |
 | Kingdom builder                            | https://boardgamegeek.com/boardgame/107529/kingdom-builder                    |
+| Azul                                       | https://boardgamegeek.com/boardgame/230802/azul                               |
 | Dominion                                   | https://boardgamegeek.com/boardgame/36218/dominion                            |
 | Race for the galaxy                        | https://boardgamegeek.com/boardgame/28143/race-galaxy                         |
 | Puerto Rico                                | https://boardgamegeek.com/boardgame/3076/puerto-rico                          |
@@ -50,11 +51,13 @@ boardgames
 | Nimmt 6            | https://boardgamegeek.com/boardgame/432/category-5                         |
 | King of tokyo      | https://boardgamegeek.com/boardgame/70323/king-tokyo                       |
 | Cash n Guns        | https://boardgamegeek.com/boardgame/19237/cash-n-guns                      |
+| The mind           | https://boardgamegeek.com/boardgame/244992/mind                            |
 | Gift trap          | https://boardgamegeek.com/boardgame/23686/gifttrap                         |
 | Dixit*             | https://boardgamegeek.com/boardgame/39856/dixit                            |
 | Contrario*         | https://boardgamegeek.com/boardgame/15271/contrario                        |
 | Carambouille       | https://boardgamegeek.com/boardgame/11547/carambouille                     |
 | Kingdomino         | https://boardgamegeek.com/boardgame/204583/kingdomino                      |
+| The game           | https://boardgamegeek.com/boardgame/173090/game                            |
 | Cochons            | https://boardgamegeek.com/boardgame/2593/pass-the-pigs                     |
 | Kiproko*           | https://boardgamegeek.com/boardgame/1072/watn-dat                          |
 | Concept*           | https://boardgamegeek.com/boardgame/147151/concept                         |
@@ -73,7 +76,7 @@ boardgames
 | La vache amoureuse | https://boardgamegeek.com/boardgame/19284/la-vache-amoureuse               |
 | Guerre des moutons | https://boardgamegeek.com/boardgame/3243/wooly-bully                       |
 | Tokyo train        | https://boardgamegeek.com/boardgame/41052/tokyo-train                      |
-| Geshenckt          | https://boardgamegeek.com/boardgame/12942/no-thanks                        |
+| Geschenkt          | https://boardgamegeek.com/boardgame/12942/no-thanks                        |
 | Sprinter           | https://boardgamegeek.com/boardgame/923/breakaway-rider                    |
 | MusicIQ*           | https://boardgamegeek.com/boardgame/191928/musiciq                         |
 ## speed games
