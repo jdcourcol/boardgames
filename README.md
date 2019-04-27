@@ -19,7 +19,7 @@ boardgames
 | Agricola                                   | https://boardgamegeek.com/boardgame/31260/agricola                            |
 | Ticket to ride/Aventuriers du rail         | https://boardgamegeek.com/boardgame/9209/ticket-to-ride                       |
 | Ricket to ride/Aventuriers du rail (swiss) | https://boardgamegeek.com/boardgameexpansion/30746/ticket-to-ride-switzerland |
-| ,Megawatts                                 | https://boardgamegeek.com/boardgame/39336/megawatts                           |
+| Megawatts                                  | https://boardgamegeek.com/boardgame/39336/megawatts                           |
 | Kingdom builder                            | https://boardgamegeek.com/boardgame/107529/kingdom-builder                    |
 | Azul                                       | https://boardgamegeek.com/boardgame/230802/azul                               |
 | Dominion                                   | https://boardgamegeek.com/boardgame/36218/dominion                            |
