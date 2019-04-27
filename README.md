@@ -1,4 +1,4 @@
-boardgames
+Boardgames
 ==========
 
 
@@ -43,7 +43,7 @@ boardgames
 | Ghost stories                         | https://boardgamegeek.com/boardgame/37046/ghost-stories                                     |
 | Space Alert                           | https://boardgamegeek.com/boardgame/38453/space-alert                                       |
 | Novembre rouge                        | https://boardgamegeek.com/boardgame/36946/red-november                                      |
-## small or Party games
+## Small or party games
 | name               | boardgamegeek                                                              |
 |--------------------|----------------------------------------------------------------------------|
 | Unanimo*           | https://boardgamegeek.com/boardgame/12157/unanimo                          |
@@ -79,7 +79,7 @@ boardgames
 | Geschenkt          | https://boardgamegeek.com/boardgame/12942/no-thanks                        |
 | Sprinter           | https://boardgamegeek.com/boardgame/923/breakaway-rider                    |
 | MusicIQ*           | https://boardgamegeek.com/boardgame/191928/musiciq                         |
-## speed games
+## Speed games
 | name         | boardgamegeek                                         |
 |--------------|-------------------------------------------------------|
 | Hand's up    | https://boardgamegeek.com/boardgame/5014/hands-up     |
